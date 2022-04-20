@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "essam9",
+	"author": "essam",
 	"version": "0.1",
 	"dependencies": {
 		"express": "^4.14.0"
