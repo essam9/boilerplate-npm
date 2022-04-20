@@ -3,12 +3,17 @@
 	"author": "essam9",
 	"version": "1.0.0",
 	"description": "A project that does something awesome",
-	"keywords": [ "javascript", "nodejs", "express", "english", "freecodecamp" ],
+	"keywords": [
+		"javascript",
+		"nodejs",
+		"express",
+		"english",
+		"freecodecamp"
+	],
 	"license": "MIT",
-
 	"dependencies": {
 		"express": "^4.14.0",
-		 "moment": "2.10.2"
+		"moment": "^2.29.3"
 	},
 	"main": "server.js",
 	"scripts": {
